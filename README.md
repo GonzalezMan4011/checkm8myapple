@@ -1,4 +1,4 @@
-# checkm8_app
+# checkm8myapple
 A app that just runs the checkm8 bootrom exploit on any compatible device at any time if needed. Works on macOS only. THE END
 
 # Supported devices
